@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidBase</string>
+    <string name="msg_item_selected">Select item number %d, id %d</string>
+</resources>
